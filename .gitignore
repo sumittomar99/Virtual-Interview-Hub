@@ -1,0 +1,4 @@
+__pycache__/
+extras/
+.env
+candidate_response.wav
