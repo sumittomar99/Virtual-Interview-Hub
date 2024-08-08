@@ -1,4 +1,5 @@
-**Virtual Interview Hub**
+# Virtual Interview Hub
+
 
 
 **Summary:**
@@ -12,9 +13,13 @@ By leveraging advanced AI technology, the platform offers a variety of interview
 **Key Features:**
 
 **Simulated Interviews:** Experience a wide range of interview scenarios, from behavioral questions to technical assessments, tailored to mimic real-world interview settings.
+
 **AI-Powered Text-to-Speech:** Utilizing the OpenAI Whisper model for Text-to-Speech, the platform delivers natural and coherent interactions, making the simulation as close to real-life as possible.
+
 **Feedback and Analysis:** Receive detailed feedback on your performance, highlighting strengths and areas for improvement, along with tips and strategies for better responses.
+
 **Customization:** Tailor your interview practice by selecting specific industries, job roles, and difficulty levels to match your career goals and preparation needs.
+
 **Future Enhancements:** Designed for expansion, the platform will integrate additional features such as personalized coaching tips, in-depth analytics, and more interactive elements.
 
 
